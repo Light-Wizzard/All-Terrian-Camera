@@ -18,3 +18,4 @@ but you have to have an Impeller or a Propeller, but in this design,
 we will only talk about the Impeller, the second part is the Motor, 
 and the third part is the Frame.
 
+![dyson-quad-copter-pumb](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/dyson-quad-copter-pumb.png)
