@@ -18,8 +18,10 @@ but you have to have an Impeller or a Propeller, but in this design,
 we will only talk about the Impeller, the second part is the Motor, 
 and the third part is the Frame.
 
-![dyson-quad-copter-pumb-concept](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/dyson-quad-copter-pumb-concept.png)
+![dyson-quad-copter-pumb-concept](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/dyson-quad-copter-pump-concept-666.png)
 
-![dyson-quad-copter-pumb](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/dyson-quad-copter-pumb.png)
+![dyson-quad-copter-pumb](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/dyson-quad-copter-pump-666.png)
 
-![dyson-quad-copter-pumb-flow](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/dyson-quad-copter-pumb-flow-666.png)
+![dyson-quad-copter-pumb-flow](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/dyson-quad-copter-pump-breakdown-666.png)
+
+![dyson-quad-copter-pumb-flow](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/dyson-quad-copter-pump-flow-666.png)
