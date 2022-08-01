@@ -22,4 +22,4 @@ and the third part is the Frame.
 
 ![dyson-quad-copter-pumb](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/dyson-quad-copter-pumb.png)
 
-![dyson-quad-copter-pumb-flow](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/dyson-quad-copter-pumb-flow.png)
+![dyson-quad-copter-pumb-flow](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/dyson-quad-copter-pumb-flow-666.png)
