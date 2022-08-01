@@ -24,4 +24,8 @@ and the third part is the Frame.
 
 ![dyson-quad-copter-pumb-flow](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/dyson-quad-copter-pump-breakdown-666.png)
 
+If you notice the Impellar shaft looks just like the Da Vinci Aerical Screw
+
+![da-vinci-aerial-screw](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/da-vinci-aerial-screw.png)
+
 ![dyson-quad-copter-pumb-flow](https://github.com/Light-Wizzard/All-Terrian-Camera/blob/main/images/dyson-quad-copter-pump-flow-666.png)
